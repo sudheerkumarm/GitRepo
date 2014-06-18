@@ -12,5 +12,7 @@ public class App
 	System.out.println( "I  am testing1" );
 	System.out.println(" This is other line for auto build");
 	System.out.println(" This is other line for auto build111");
+System.out.println(" This is other line for auto check 3333 ");
+
     }
 }
