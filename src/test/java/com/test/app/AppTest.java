@@ -17,7 +17,7 @@ public class AppTest
      */
     public AppTest( String testName )
     {
-        super( testName );
+        super( testName );        
     }
 
     /**
@@ -26,6 +26,7 @@ public class AppTest
     public static Test suite()
     {
 	System.out.println("****************************************");
+        System.out.println("****************************************");
         return new TestSuite( AppTest.class );
     }
 
